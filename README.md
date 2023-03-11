@@ -2,10 +2,10 @@
 
 
 [Popular React Specific Linters]
-(## Popular React Specific Linters)
+(# Popular React Specific Linters)
 
 [Benefits of Stlyes Modules]
-(## Benefit of Styles Modules:)
+(# Benefit of Styles Modules:)
 ## Popular React Specific Linters
 
 There are several popular linters that are specific to React:
