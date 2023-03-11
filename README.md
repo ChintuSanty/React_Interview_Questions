@@ -1,11 +1,11 @@
 # React_Interview_Questions
 
 
-[Popular React Specific Linters]
-(# Popular React Specific Linters)
+1. Popular React Specific Linters
+{# Popular React Specific Linters}
 
-[Benefits of Stlyes Modules]
-(# Benefit of Styles Modules:)
+2. Benefits of Stlyes Modules
+{# Benefit of Styles Modules:}
 ## Popular React Specific Linters
 
 There are several popular linters that are specific to React:
