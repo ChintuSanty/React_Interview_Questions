@@ -1,12 +1,16 @@
 # React_Interview_Questions
 
 
-1. Popular React Specific Linters
-{# Popular React Specific Linters}
+1. [Popular React Specific Linters]
+(# Popular React Specific Linters)
 
-2. Benefits of Stlyes Modules
-{# Benefit of Styles Modules:}
+2. [Benefits of Stlyes Modules]
+(# Benefit of Styles Modules:)
+
+
+
 ## Popular React Specific Linters
+{# Popular React Specific Linters}
 
 There are several popular linters that are specific to React:
 
@@ -25,6 +29,7 @@ There are several popular linters that are specific to React:
 Using a linter in a React project can help catch errors early, enforce code quality and consistency, and make collaboration easier.
 
 ## Benefit of Styles Modules:
+{# Benefit of Styles Modules:}
 
 CSS Modules is a feature in React that allows you to write modular, reusable CSS styles in your components. When you use CSS Modules, your styles are scoped to the component they are defined in, and are not affected by styles defined in other components or in global CSS files. Here are some benefits of using CSS Modules in React:
 
