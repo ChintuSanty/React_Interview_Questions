@@ -2,10 +2,10 @@
 
 
 1. [Popular React Specific Linters]
-(# Popular React Specific Linters)
+(#popular-react-specific-linters)
 
 2. [Benefits of Stlyes Modules]
-(# Benefit of Styles Modules:)
+(#benefits-of-styles-modules)
 
 
 
